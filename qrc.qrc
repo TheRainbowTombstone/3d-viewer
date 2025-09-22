@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/AddObjectDialog.qml</file>
+        <file>qml/Main.qml</file>
+        <file>qml/PrimitiveDelegate.qml</file>
+        <file>qml/SceneView.qml</file>
+        <file>qml/Sidebar.qml</file>
+    </qresource>
+</RCC>
